@@ -1,0 +1,4 @@
+Comandos para abrir o desktop e para criar a pasta
+pwd mostrou onde eu estava
+cd para entrar/abrir o Desktop
+mkdir criou a pasta pratica-sell
