@@ -17,3 +17,11 @@ passos para configurar:
 cd pratica-git-nome 
 git config user.name "nome"
 git config user.email "email"
+
+passos para mandar as mudanças para o original:
+git push origin master (fazer isso dentro da pasta clonada)
+
+Obs: 
+git log - lista os commits.
+git pull - manda as informações do orginal para a pasta do clone que está sendo usado.
+O comando git pull deve ser dado dentro da pasta do clone.
