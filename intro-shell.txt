@@ -1,4 +1,6 @@
 Comandos para abrir o desktop e para criar a pasta
 pwd mostrou onde eu estava
-cd para entrar/abrir o Desktop
+cd para entrar no Desktop
 mkdir criou a pasta pratica-sell
+ls comando usado para listar os itens da pasta
+git init --bare usado para criar um repositorio
