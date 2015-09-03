@@ -3,4 +3,17 @@ pwd mostrou onde eu estava
 cd para entrar no Desktop
 mkdir criou a pasta pratica-sell
 ls comando usado para listar os itens da pasta
-git init --bare usado para criar um repositorio
+
+passos para criação do repositorio: 
+mkdir repo 
+cd repo
+git init --bare (criou o repositorio)
+
+passos para criar o clone:
+cd .. para sair da pasta repo 
+git clone repo pratica-git-nome
+
+passos para configurar:
+cd pratica-git-nome 
+git config user.name "nome"
+git config user.email "email"
