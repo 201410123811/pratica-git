@@ -25,3 +25,6 @@ Obs:
 git log - lista os commits.
 git pull - manda as informações do orginal para a pasta do clone que está sendo usado.
 O comando git pull deve ser dado dentro da pasta do clone.
+
+Obs:
+Cada componente do grupo executou todos os passos para criar um clone e os posteriores.
