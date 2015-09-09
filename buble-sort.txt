@@ -1,0 +1,14 @@
+Considerando N o número de cartas do conjunto.
+A cada carta retirada do conjunto A-N, compare com outra carta diferente do conjunto A-N.
+Se a carta da frente for maior que a de trás, troque-as de lugar.
+Se a carta da frente for menor que a de trás, mantenha-as no mesmo lugar.
+Faça a comparação para todas as cartas disponíveis no conjunto A-N.
+
+
+
+Para i indo de 0 até N-2, faça:
+Para j indo de i+1 até N-1, faça:
+Se carta i > carta j
+temp <- carta i
+carta i <- carta j
+carta j <- temp
