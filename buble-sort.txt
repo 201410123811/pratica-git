@@ -1,0 +1,11 @@
+Considerando que as cartas estão espalhadas da esquerda para a direita, pretendemos colocá-las em ordem crescente.
+Considerando o valor de "As" sendo 1.
+De acordo com as regras: 
+1) Vire duas cartas por vez.
+2) Trocar de lugar, ou não.
+3) Virar a carta de volta.
+4) Ao desvirar esquecer qual é a carta.
+
+Para montar a sequência em ordem crescente (esquerda para direita): 
+Retire duas cartas. Verifique qual é a maior, se a maior estiver no final da sequência, mantenha as duas no lugar.
+Retire novamente duas cartas. Supondo que a maior carta esteja antes da menor, troque-as de lugar. E assim, sucessivamente até ordenar todas as cartas.
